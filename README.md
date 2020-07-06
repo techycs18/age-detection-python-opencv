@@ -1,2 +1,4 @@
 # Age_Detection_OpenCV_CNN
-Real time Age detection system
+
+-------On going--------
+Upload and further details in the repository are yet to be finished 
