@@ -21,7 +21,6 @@ The project is made for the purpose of knowledge. It simple detection the faces 
 > - [Install OpenCV for Ubuntu](https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html) <br/>
 > - pip install imutils <br/>
 > - pip install numpy <br/>
-> - pip install -U scikit-learn <br/>
 
 #### Procedure
 - For age detection on image run:
